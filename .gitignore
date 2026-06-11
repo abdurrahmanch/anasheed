@@ -1,0 +1,10 @@
+# Claude planning / instructor docs (local only)
+CLAUDE.md
+INIT_PROMPT.md
+PROGRESS.md
+NOTES.md
+.claude/
+
+# IDE (repo root)
+.idea/
+*.iml
